@@ -1,0 +1,61 @@
+{
+  "FormKey": "000849:Alias - Raiders.esp",
+  "EditorID": "rnr_RenameSpell_Pack",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Settler"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "000842:Alias - Raiders.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsSex"
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "000843:Alias - Raiders.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetIsSex"
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

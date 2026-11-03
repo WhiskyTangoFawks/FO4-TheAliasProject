@@ -1,0 +1,14 @@
+{
+  "FormKey": "00090D:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericPhoeneticAlphabet25",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Yankee"
+  },
+  "DisplayTime": 2
+}

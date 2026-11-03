@@ -1,0 +1,16 @@
+{
+  "FormKey": "000806:Alias - Raiders.esp",
+  "EditorID": "rnr_RaiderNickname",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Raider Nicknames"
+  },
+  "Items": [
+    "0008BC:Alias.esp",
+    "0008BD:Alias.esp",
+    "0008BE:Alias.esp",
+    "0008BF:Alias.esp",
+    "0008C0:Alias.esp",
+    "0008C1:Alias.esp"
+  ]
+}

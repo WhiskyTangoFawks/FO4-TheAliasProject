@@ -1,0 +1,30 @@
+{
+  "FormKey": "000F9F:Alias - SuperMutants.esp",
+  "EditorID": "rnr_RenameSpell_Nightkin",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Super Mutant"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "000003:Alias - SuperMutants.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

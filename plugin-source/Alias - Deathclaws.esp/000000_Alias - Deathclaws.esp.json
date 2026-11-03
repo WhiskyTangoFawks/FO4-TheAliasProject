@@ -1,0 +1,13 @@
+{
+  "ModKey": "Alias - Deathclaws.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 27
+    },
+    "Author": ""
+  }
+}

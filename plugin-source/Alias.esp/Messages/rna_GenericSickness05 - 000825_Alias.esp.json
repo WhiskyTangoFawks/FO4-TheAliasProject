@@ -1,0 +1,14 @@
+{
+  "FormKey": "000825:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericSickness05",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Sore"
+  },
+  "DisplayTime": 2
+}

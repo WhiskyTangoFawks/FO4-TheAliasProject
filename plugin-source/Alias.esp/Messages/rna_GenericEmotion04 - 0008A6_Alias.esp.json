@@ -1,0 +1,14 @@
+{
+  "FormKey": "0008A6:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericEmotion04",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Smilin"
+  },
+  "DisplayTime": 2
+}

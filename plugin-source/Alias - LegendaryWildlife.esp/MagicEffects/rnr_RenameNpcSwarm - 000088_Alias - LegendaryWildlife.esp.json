@@ -1,0 +1,79 @@
+{
+  "FormKey": "000088:Alias - LegendaryWildlife.esp",
+  "EditorID": "rnr_RenameNpcSwarm",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "RenameNpcEffect",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "aliasScript",
+            "Object": "000802:Alias.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "NamesLists",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesCache",
+                    "Object": "000086:Alias - LegendaryWildlife.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesList",
+                    "Object": "000084:Alias - LegendaryWildlife.esp"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesCache",
+                    "Object": "000087:Alias - LegendaryWildlife.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesList",
+                    "Object": "000085:Alias - LegendaryWildlife.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "prefix",
+                    "Object": "00005B:Alias - LegendaryWildlife.esp"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename NPC"
+  },
+  "Flags": [
+    "NoDuration",
+    "NoMagnitude",
+    "NoArea",
+    "NoHitEffect"
+  ],
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "Type": "Script"
+  },
+  "CastType": "FireAndForget",
+  "DualCastScale": 1.0,
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

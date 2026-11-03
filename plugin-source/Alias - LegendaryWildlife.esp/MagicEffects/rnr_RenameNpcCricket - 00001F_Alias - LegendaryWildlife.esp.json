@@ -1,0 +1,74 @@
+{
+  "FormKey": "00001F:Alias - LegendaryWildlife.esp",
+  "EditorID": "rnr_RenameNpcCricket",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "RenameNpcEffect",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "aliasScript",
+            "Object": "000802:Alias.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "NamesLists",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesCache",
+                    "Object": "00001D:Alias - LegendaryWildlife.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesList",
+                    "Object": "00001B:Alias - LegendaryWildlife.esp"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesCache",
+                    "Object": "00001E:Alias - LegendaryWildlife.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesList",
+                    "Object": "00001C:Alias - LegendaryWildlife.esp"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename NPC"
+  },
+  "Flags": [
+    "NoDuration",
+    "NoMagnitude",
+    "NoArea",
+    "NoHitEffect"
+  ],
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "Type": "Script"
+  },
+  "CastType": "FireAndForget",
+  "DualCastScale": 1.0,
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

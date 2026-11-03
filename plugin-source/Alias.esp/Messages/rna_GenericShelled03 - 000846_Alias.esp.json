@@ -1,0 +1,14 @@
+{
+  "FormKey": "000846:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericShelled03",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Shell"
+  },
+  "DisplayTime": 2
+}

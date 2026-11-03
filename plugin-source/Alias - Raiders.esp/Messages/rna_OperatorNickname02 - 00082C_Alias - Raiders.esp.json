@@ -1,0 +1,13 @@
+{
+  "FormKey": "00082C:Alias - Raiders.esp",
+  "EditorID": "rna_OperatorNickname02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Caps"
+  },
+  "DisplayTime": 2
+}

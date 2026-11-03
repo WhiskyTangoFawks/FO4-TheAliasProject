@@ -1,0 +1,14 @@
+{
+  "FormKey": "000002:Alias - SuperMutants.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_MutantSuffix",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "er"
+  },
+  "DisplayTime": 2
+}

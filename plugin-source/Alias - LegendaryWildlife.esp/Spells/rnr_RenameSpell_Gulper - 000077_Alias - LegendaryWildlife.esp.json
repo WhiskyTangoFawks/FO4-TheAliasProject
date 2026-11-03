@@ -1,0 +1,30 @@
+{
+  "FormKey": "000077:Alias - LegendaryWildlife.esp",
+  "EditorID": "rnr_RenameSpell_Gulper",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Gulper"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "000076:Alias - LegendaryWildlife.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

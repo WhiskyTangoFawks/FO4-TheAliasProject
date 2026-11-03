@@ -1,0 +1,14 @@
+{
+  "FormKey": "00094A:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericRobotSuffix02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "droid"
+  },
+  "DisplayTime": 2
+}

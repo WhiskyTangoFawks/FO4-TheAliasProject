@@ -1,0 +1,30 @@
+{
+  "FormKey": "00075F:Alias - Brotherhood.esp",
+  "EditorID": "rnr_RenameSpellBoSScribe",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Spell"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "00074D:Alias - Brotherhood.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "FormKey": "0018FC:Alias.esp",
+  "VersionControl": 11645,
+  "EditorID": "rna_GreekAlphabet10",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Kappa"
+  },
+  "DisplayTime": 2
+}

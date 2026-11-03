@@ -1,0 +1,13 @@
+{
+  "FormKey": "0028C5:Alias.esp",
+  "EditorID": "rna_GenericOmen02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Omen"
+  },
+  "DisplayTime": 2
+}

@@ -1,0 +1,14 @@
+{
+  "FormKey": "001950:Alias.esp",
+  "VersionControl": 11645,
+  "EditorID": "HasAlias",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Used to make sure we don't redo aliasing on reloading cells."
+  },
+  "DefaultValue": 0.0,
+  "Flags": [
+    "DefaultToZero"
+  ],
+  "Type": "Variable"
+}

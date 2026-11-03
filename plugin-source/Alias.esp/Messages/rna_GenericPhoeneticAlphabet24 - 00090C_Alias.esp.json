@@ -1,0 +1,14 @@
+{
+  "FormKey": "00090C:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericPhoeneticAlphabet24",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Xray"
+  },
+  "DisplayTime": 2
+}

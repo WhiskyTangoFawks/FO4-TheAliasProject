@@ -1,0 +1,14 @@
+{
+  "FormKey": "001902:Alias.esp",
+  "VersionControl": 11645,
+  "EditorID": "rna_GreekAlphabet16",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pi"
+  },
+  "DisplayTime": 2
+}

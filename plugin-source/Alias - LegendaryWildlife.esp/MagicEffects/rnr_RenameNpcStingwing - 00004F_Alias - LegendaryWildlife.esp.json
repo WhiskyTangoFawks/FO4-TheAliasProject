@@ -1,0 +1,74 @@
+{
+  "FormKey": "00004F:Alias - LegendaryWildlife.esp",
+  "EditorID": "rnr_RenameNpcStingwing",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "RenameNpcEffect",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "aliasScript",
+            "Object": "000802:Alias.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "NamesLists",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesCache",
+                    "Object": "00004D:Alias - LegendaryWildlife.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesList",
+                    "Object": "00004B:Alias - LegendaryWildlife.esp"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesCache",
+                    "Object": "00004E:Alias - LegendaryWildlife.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesList",
+                    "Object": "00004C:Alias - LegendaryWildlife.esp"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename NPC"
+  },
+  "Flags": [
+    "NoDuration",
+    "NoMagnitude",
+    "NoArea",
+    "NoHitEffect"
+  ],
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "Type": "Script"
+  },
+  "CastType": "FireAndForget",
+  "DualCastScale": 1.0,
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "FormKey": "000013:Alias - Deathclaws.esp",
+  "EditorID": "rna_DeathclawSuffix03",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "venator"
+  },
+  "DisplayTime": 2
+}

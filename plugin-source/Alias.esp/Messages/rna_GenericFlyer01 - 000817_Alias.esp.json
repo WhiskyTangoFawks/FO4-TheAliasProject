@@ -1,0 +1,14 @@
+{
+  "FormKey": "000817:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericFlyer01",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fly"
+  },
+  "DisplayTime": 2
+}

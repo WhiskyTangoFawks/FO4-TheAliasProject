@@ -1,0 +1,92 @@
+{
+  "FormKey": "000FA7:Alias - Robot.esp",
+  "EditorID": "rnr_RenameNpcRobobrain",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "RenameNpcEffect",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "aliasScript",
+            "Object": "000802:Alias.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "NamesLists",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Name",
+                    "Object": "000FA0:Alias - Robot.esp"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesList",
+                    "Object": "000FA6:Alias - Robot.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "prefix",
+                    "Object": "001152:Alias.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptProperty",
+                    "Name": ""
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesList",
+                    "Object": "00000C:Alias - Robot.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "prefix",
+                    "Object": "001152:Alias.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptFloatProperty",
+                    "Name": "selectBylevelMax",
+                    "Data": 75.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename NPC"
+  },
+  "Flags": [
+    "NoDuration",
+    "NoMagnitude",
+    "NoArea",
+    "NoHitEffect"
+  ],
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "Type": "Script"
+  },
+  "CastType": "FireAndForget",
+  "DualCastScale": 1.0,
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

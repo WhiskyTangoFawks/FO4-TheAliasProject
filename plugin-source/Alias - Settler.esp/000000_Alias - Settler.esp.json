@@ -1,0 +1,13 @@
+{
+  "ModKey": "Alias - Settler.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 2055
+    },
+    "Author": ""
+  }
+}

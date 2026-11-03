@@ -1,0 +1,14 @@
+{
+  "FormKey": "001901:Alias.esp",
+  "VersionControl": 11645,
+  "EditorID": "rna_GreekAlphabet15",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Omicron"
+  },
+  "DisplayTime": 2
+}

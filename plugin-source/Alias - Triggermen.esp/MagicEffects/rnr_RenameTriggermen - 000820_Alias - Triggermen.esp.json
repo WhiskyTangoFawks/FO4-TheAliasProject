@@ -1,0 +1,84 @@
+{
+  "FormKey": "000820:Alias - Triggermen.esp",
+  "EditorID": "rnr_RenameTriggermen",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "RenameNpcEffect",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "aliasScript",
+            "Object": "000802:Alias.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptStructListProperty",
+            "Name": "NamesLists",
+            "Structs": [
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesCache",
+                    "Object": "000821:Alias - Triggermen.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesList",
+                    "Object": "00081E:Alias - Triggermen.esp"
+                  }
+                ]
+              },
+              {
+                "Members": [
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesCache",
+                    "Object": "000822:Alias - Triggermen.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "namesList",
+                    "Object": "00081F:Alias - Triggermen.esp"
+                  },
+                  {
+                    "MutagenObjectType": "ScriptObjectProperty",
+                    "Name": "Prefix",
+                    "Object": "001152:Alias.esp"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptStringProperty",
+            "Name": "reqPartialNameFilter",
+            "Data": "riggerman"
+          }
+        ]
+      }
+    ]
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Triggermen"
+  },
+  "Flags": [
+    "NoDuration",
+    "NoMagnitude",
+    "NoArea",
+    "NoHitEffect"
+  ],
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "Type": "Script"
+  },
+  "CastType": "FireAndForget",
+  "DualCastScale": 1.0,
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

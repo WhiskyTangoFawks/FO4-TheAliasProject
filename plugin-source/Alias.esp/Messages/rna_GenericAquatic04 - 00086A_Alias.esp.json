@@ -1,0 +1,14 @@
+{
+  "FormKey": "00086A:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericAquatic04",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Tide"
+  },
+  "DisplayTime": 2
+}

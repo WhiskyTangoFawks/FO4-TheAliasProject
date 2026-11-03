@@ -1,0 +1,15 @@
+{
+  "FormKey": "00080A:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_Token_3x",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "<Token.name0=name0><Token.name1=name1><Token.name2=name2>"
+  },
+  "OwnerQuest": "000802:Alias.esp",
+  "DisplayTime": 2
+}

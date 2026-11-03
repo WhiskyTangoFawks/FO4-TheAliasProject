@@ -1,0 +1,13 @@
+{
+  "ModKey": "Alias - Triggermen.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 2085
+    },
+    "Author": ""
+  }
+}

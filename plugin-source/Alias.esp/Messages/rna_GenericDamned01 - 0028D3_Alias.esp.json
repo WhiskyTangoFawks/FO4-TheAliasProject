@@ -1,0 +1,13 @@
+{
+  "FormKey": "0028D3:Alias.esp",
+  "EditorID": "rna_GenericDamned01",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Doomed"
+  },
+  "DisplayTime": 2
+}

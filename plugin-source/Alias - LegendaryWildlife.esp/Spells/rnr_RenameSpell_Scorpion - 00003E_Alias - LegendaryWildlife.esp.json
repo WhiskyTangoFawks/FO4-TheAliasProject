@@ -1,0 +1,30 @@
+{
+  "FormKey": "00003E:Alias - LegendaryWildlife.esp",
+  "EditorID": "rnr_RenameSpell_Scorpion",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Scorpion"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "00003D:Alias - LegendaryWildlife.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

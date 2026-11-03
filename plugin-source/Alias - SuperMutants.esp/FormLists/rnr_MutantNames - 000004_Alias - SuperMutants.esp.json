@@ -1,0 +1,13 @@
+{
+  "FormKey": "000004:Alias - SuperMutants.esp",
+  "VersionControl": 11642,
+  "EditorID": "rnr_MutantNames",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mutant names pool"
+  },
+  "Items": [
+    "0008DD:Alias.esp",
+    "0008DE:Alias.esp"
+  ]
+}

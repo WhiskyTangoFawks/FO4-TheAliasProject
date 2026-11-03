@@ -1,0 +1,14 @@
+{
+  "FormKey": "0008CC:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericVerb11",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pound"
+  },
+  "DisplayTime": 2
+}

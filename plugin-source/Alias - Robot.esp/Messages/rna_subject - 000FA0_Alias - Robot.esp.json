@@ -1,0 +1,13 @@
+{
+  "FormKey": "000FA0:Alias - Robot.esp",
+  "EditorID": "rna_subject",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Subject"
+  },
+  "DisplayTime": 2
+}

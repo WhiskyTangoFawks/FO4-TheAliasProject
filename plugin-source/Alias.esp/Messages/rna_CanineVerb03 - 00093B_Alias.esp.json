@@ -1,0 +1,14 @@
+{
+  "FormKey": "00093B:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_CanineVerb03",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Snarl"
+  },
+  "DisplayTime": 2
+}

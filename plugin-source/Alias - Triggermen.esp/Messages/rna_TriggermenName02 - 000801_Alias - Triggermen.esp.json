@@ -1,0 +1,13 @@
+{
+  "FormKey": "000801:Alias - Triggermen.esp",
+  "EditorID": "rna_TriggermenName02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Johnny"
+  },
+  "DisplayTime": 2
+}

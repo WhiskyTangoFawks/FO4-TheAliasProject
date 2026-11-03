@@ -1,0 +1,14 @@
+{
+  "FormKey": "00190C:Alias.esp",
+  "VersionControl": 11645,
+  "EditorID": "rna_GenericArmyRank06",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Lieutenant"
+  },
+  "DisplayTime": 2
+}

@@ -1,0 +1,31 @@
+{
+  "FormKey": "00001C:Alias - LovecraftianFogCrawlers.esp",
+  "VersionControl": 11651,
+  "EditorID": "rnr_RenameSpell_LovecraftFogCrawler",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename FogCrawler"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "00001D:Alias - LovecraftianFogCrawlers.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x25979E",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

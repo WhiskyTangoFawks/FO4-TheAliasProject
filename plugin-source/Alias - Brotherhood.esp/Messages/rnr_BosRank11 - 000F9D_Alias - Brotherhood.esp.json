@@ -1,0 +1,14 @@
+{
+  "FormKey": "000F9D:Alias - Brotherhood.esp",
+  "VersionControl": 11638,
+  "EditorID": "rnr_BosRank11",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Lancer-Initiate"
+  },
+  "DisplayTime": 2
+}

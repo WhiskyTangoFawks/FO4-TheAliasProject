@@ -1,0 +1,14 @@
+{
+  "FormKey": "000FA0:Alias.esp",
+  "VersionControl": 10408,
+  "EditorID": "RNS_FemaleFirstName03",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Linda"
+  },
+  "DisplayTime": 2
+}

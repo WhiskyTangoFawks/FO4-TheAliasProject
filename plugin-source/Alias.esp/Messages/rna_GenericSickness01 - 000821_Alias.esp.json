@@ -1,0 +1,14 @@
+{
+  "FormKey": "000821:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericSickness01",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Plague"
+  },
+  "DisplayTime": 2
+}

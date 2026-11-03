@@ -1,0 +1,14 @@
+{
+  "FormKey": "000FA4:Alias - Brotherhood.esp",
+  "VersionControl": 11638,
+  "EditorID": "rnr_BosRank18",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Squire"
+  },
+  "DisplayTime": 2
+}

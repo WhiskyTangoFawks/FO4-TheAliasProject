@@ -1,0 +1,30 @@
+{
+  "FormKey": "000FC2:Alias - Robot.esp",
+  "EditorID": "rnr_RenameSpell_Assaultron",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Assaultron"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "00000E:Alias - Robot.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

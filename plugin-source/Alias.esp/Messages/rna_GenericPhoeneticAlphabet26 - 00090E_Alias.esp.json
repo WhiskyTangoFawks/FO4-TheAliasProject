@@ -1,0 +1,14 @@
+{
+  "FormKey": "00090E:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericPhoeneticAlphabet26",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Zulu"
+  },
+  "DisplayTime": 2
+}

@@ -1,0 +1,14 @@
+{
+  "FormKey": "0008E8:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericPhoeneticAlphabet10",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Juliet"
+  },
+  "DisplayTime": 2
+}

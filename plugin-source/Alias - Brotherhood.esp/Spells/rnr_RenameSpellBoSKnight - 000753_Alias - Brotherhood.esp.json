@@ -1,0 +1,30 @@
+{
+  "FormKey": "000753:Alias - Brotherhood.esp",
+  "EditorID": "rnr_RenameSpellBoSKnight",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Spell"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "000741:Alias - Brotherhood.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

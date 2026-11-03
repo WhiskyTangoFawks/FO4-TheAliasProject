@@ -1,0 +1,14 @@
+{
+  "FormKey": "000842:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericConsume04",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Drinker"
+  },
+  "DisplayTime": 2
+}

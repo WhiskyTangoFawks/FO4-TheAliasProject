@@ -1,0 +1,12 @@
+{
+  "FormKey": "000004:Alias - Ferals.esp",
+  "EditorID": "rnr_FeralSuffix",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Cache"
+  },
+  "Items": [
+    "000892:Alias.esp",
+    "000874:Alias.esp"
+  ]
+}

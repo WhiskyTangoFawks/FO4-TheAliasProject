@@ -1,0 +1,13 @@
+{
+  "ModKey": "Alias - Ferals.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 7
+    },
+    "Author": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ModKey": "Alias - Raiders.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 2128
+    },
+    "Author": ""
+  }
+}

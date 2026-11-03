@@ -1,0 +1,13 @@
+{
+  "FormKey": "0028CF:Alias.esp",
+  "EditorID": "rna_GenericPlague02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pestilence"
+  },
+  "DisplayTime": 2
+}

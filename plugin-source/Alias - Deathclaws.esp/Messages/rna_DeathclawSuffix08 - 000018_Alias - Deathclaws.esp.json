@@ -1,0 +1,13 @@
+{
+  "FormKey": "000018:Alias - Deathclaws.esp",
+  "EditorID": "rna_DeathclawSuffix08",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "tyrannus"
+  },
+  "DisplayTime": 2
+}

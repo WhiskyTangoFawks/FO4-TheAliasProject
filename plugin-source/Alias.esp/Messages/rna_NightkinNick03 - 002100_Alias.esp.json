@@ -1,0 +1,14 @@
+{
+  "FormKey": "002100:Alias.esp",
+  "VersionControl": 11651,
+  "EditorID": "rna_NightkinNick03",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Creep"
+  },
+  "DisplayTime": 2
+}

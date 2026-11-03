@@ -1,0 +1,14 @@
+{
+  "FormKey": "001906:Alias.esp",
+  "VersionControl": 11645,
+  "EditorID": "rna_GreekAlphabet20",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Upsilon"
+  },
+  "DisplayTime": 2
+}

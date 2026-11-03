@@ -1,0 +1,14 @@
+{
+  "FormKey": "0008BA:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericLocale04",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Boston"
+  },
+  "DisplayTime": 2
+}

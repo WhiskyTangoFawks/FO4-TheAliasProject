@@ -1,0 +1,14 @@
+{
+  "FormKey": "00094C:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericRobotSuffix04",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "bucket"
+  },
+  "DisplayTime": 2
+}

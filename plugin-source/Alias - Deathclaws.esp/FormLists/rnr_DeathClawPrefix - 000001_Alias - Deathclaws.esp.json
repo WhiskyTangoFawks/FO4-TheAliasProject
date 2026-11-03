@@ -1,0 +1,20 @@
+{
+  "FormKey": "000001:Alias - Deathclaws.esp",
+  "EditorID": "rnr_DeathClawPrefix",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Cache"
+  },
+  "Items": [
+    "000007:Alias - Deathclaws.esp",
+    "000008:Alias - Deathclaws.esp",
+    "000009:Alias - Deathclaws.esp",
+    "00000A:Alias - Deathclaws.esp",
+    "00000B:Alias - Deathclaws.esp",
+    "00000C:Alias - Deathclaws.esp",
+    "00000D:Alias - Deathclaws.esp",
+    "00000E:Alias - Deathclaws.esp",
+    "00000F:Alias - Deathclaws.esp",
+    "000010:Alias - Deathclaws.esp"
+  ]
+}

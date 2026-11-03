@@ -1,0 +1,15 @@
+{
+  "ModKey": "Alias - SuperMutants.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 4011
+    },
+    "Author": "DEFAULT",
+    "INTV": "0x01000000",
+    "INCC": 0
+  }
+}

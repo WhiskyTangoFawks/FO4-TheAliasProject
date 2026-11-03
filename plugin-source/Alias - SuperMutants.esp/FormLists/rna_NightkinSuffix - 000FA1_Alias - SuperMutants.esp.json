@@ -1,0 +1,11 @@
+{
+  "FormKey": "000FA1:Alias - SuperMutants.esp",
+  "EditorID": "rna_NightkinSuffix",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mutant names pool"
+  },
+  "Items": [
+    "002112:Alias.esp"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "FormKey": "000002:Alias - Gunner.esp",
+  "EditorID": "rnr_RenameSpell_Gunner",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Gunner"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "000001:Alias - Gunner.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

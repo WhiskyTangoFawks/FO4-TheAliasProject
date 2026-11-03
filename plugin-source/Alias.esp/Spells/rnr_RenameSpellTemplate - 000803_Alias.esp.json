@@ -1,0 +1,21 @@
+{
+  "FormKey": "000803:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rnr_RenameSpellTemplate",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Spell"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "000801:Alias.esp",
+      "Data": {}
+    }
+  ]
+}

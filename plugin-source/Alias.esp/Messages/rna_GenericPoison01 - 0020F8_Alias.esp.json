@@ -1,0 +1,14 @@
+{
+  "FormKey": "0020F8:Alias.esp",
+  "VersionControl": 11651,
+  "EditorID": "rna_GenericPoison01",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Poison"
+  },
+  "DisplayTime": 2
+}

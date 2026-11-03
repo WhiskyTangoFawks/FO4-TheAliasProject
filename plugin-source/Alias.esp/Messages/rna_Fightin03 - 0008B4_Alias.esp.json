@@ -1,0 +1,14 @@
+{
+  "FormKey": "0008B4:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_Fightin03",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pistol"
+  },
+  "DisplayTime": 2
+}

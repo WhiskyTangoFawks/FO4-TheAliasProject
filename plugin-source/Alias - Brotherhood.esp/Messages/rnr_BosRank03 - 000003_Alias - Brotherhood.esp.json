@@ -1,0 +1,14 @@
+{
+  "FormKey": "000003:Alias - Brotherhood.esp",
+  "VersionControl": 11638,
+  "EditorID": "rnr_BosRank03",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Knight-Sergeant"
+  },
+  "DisplayTime": 2
+}

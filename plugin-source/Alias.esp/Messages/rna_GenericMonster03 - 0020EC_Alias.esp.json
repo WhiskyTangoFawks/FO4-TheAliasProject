@@ -1,0 +1,14 @@
+{
+  "FormKey": "0020EC:Alias.esp",
+  "VersionControl": 11651,
+  "EditorID": "rna_GenericMonster03",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Beast"
+  },
+  "DisplayTime": 2
+}

@@ -1,0 +1,13 @@
+{
+  "FormKey": "002B33:Alias.esp",
+  "EditorID": "RNS_MaleFirstName200",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rex"
+  },
+  "DisplayTime": 2
+}

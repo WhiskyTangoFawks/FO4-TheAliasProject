@@ -1,0 +1,14 @@
+{
+  "FormKey": "0008B8:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericLocale02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Downtown"
+  },
+  "DisplayTime": 2
+}

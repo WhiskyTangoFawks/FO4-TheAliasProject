@@ -1,0 +1,13 @@
+{
+  "ModKey": "Alias.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Stats": {
+      "NextFormID": 11060
+    },
+    "Author": "WhiskyTangoFox",
+    "Description": "Framework for alias renaming",
+    "INTV": "0x01000000",
+    "INCC": 0
+  }
+}

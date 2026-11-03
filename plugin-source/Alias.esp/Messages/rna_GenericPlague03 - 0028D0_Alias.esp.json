@@ -1,0 +1,13 @@
+{
+  "FormKey": "0028D0:Alias.esp",
+  "EditorID": "rna_GenericPlague03",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Taint"
+  },
+  "DisplayTime": 2
+}

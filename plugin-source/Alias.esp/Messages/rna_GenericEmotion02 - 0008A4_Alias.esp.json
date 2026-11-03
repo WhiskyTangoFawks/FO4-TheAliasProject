@@ -1,0 +1,14 @@
+{
+  "FormKey": "0008A4:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericEmotion02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Sad"
+  },
+  "DisplayTime": 2
+}

@@ -1,0 +1,14 @@
+{
+  "FormKey": "0018FA:Alias.esp",
+  "VersionControl": 11645,
+  "EditorID": "rna_GreekAlphabet08",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Theta"
+  },
+  "DisplayTime": 2
+}

@@ -1,0 +1,31 @@
+{
+  "FormKey": "000001:Alias - Synth.esp",
+  "VersionControl": 11641,
+  "EditorID": "rnr_RenameSpell_Synth",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Settler"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "000005:Alias - Synth.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

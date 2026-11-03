@@ -1,0 +1,30 @@
+{
+  "FormKey": "000050:Alias - LegendaryWildlife.esp",
+  "EditorID": "rnr_RenameSpell_Stingwing",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Stingwing"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "00004F:Alias - LegendaryWildlife.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

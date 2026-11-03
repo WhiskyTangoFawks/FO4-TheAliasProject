@@ -1,0 +1,14 @@
+{
+  "FormKey": "000907:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericPhoeneticAlphabet19",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Sierra"
+  },
+  "DisplayTime": 2
+}

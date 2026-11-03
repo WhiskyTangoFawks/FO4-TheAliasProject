@@ -1,0 +1,13 @@
+{
+  "FormKey": "000010:Alias - Deathclaws.esp",
+  "EditorID": "rna_DeathclawPrefix10",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Canto"
+  },
+  "DisplayTime": 2
+}

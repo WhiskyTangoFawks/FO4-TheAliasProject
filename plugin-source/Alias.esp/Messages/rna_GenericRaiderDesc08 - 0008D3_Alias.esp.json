@@ -1,0 +1,14 @@
+{
+  "FormKey": "0008D3:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericRaiderDesc08",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Skinny"
+  },
+  "DisplayTime": 2
+}

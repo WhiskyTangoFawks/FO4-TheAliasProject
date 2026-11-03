@@ -1,0 +1,30 @@
+{
+  "FormKey": "000006:Alias - Deathclaws.esp",
+  "EditorID": "rnr_RenameSpell_DinoDeathclaw",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Deathclaw"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "000005:Alias - Deathclaws.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

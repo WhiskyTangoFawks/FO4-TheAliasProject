@@ -1,0 +1,13 @@
+{
+  "FormKey": "0028CE:Alias.esp",
+  "EditorID": "rna_GenericPlague01",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Plague"
+  },
+  "DisplayTime": 2
+}

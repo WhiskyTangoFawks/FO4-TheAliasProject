@@ -1,0 +1,14 @@
+{
+  "FormKey": "00087E:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericBodilyFluid02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Blood"
+  },
+  "DisplayTime": 2
+}

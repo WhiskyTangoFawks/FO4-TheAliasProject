@@ -1,0 +1,25 @@
+{
+  "FormKey": "00081F:Alias - Triggermen.esp",
+  "EditorID": "rna_TriggermenNicknames",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Nicknames"
+  },
+  "Items": [
+    "00080F:Alias - Triggermen.esp",
+    "000810:Alias - Triggermen.esp",
+    "000811:Alias - Triggermen.esp",
+    "000812:Alias - Triggermen.esp",
+    "00081B:Alias - Triggermen.esp",
+    "000813:Alias - Triggermen.esp",
+    "000814:Alias - Triggermen.esp",
+    "000815:Alias - Triggermen.esp",
+    "000816:Alias - Triggermen.esp",
+    "000817:Alias - Triggermen.esp",
+    "00081C:Alias - Triggermen.esp",
+    "000818:Alias - Triggermen.esp",
+    "00081D:Alias - Triggermen.esp",
+    "000819:Alias - Triggermen.esp",
+    "00081A:Alias - Triggermen.esp"
+  ]
+}

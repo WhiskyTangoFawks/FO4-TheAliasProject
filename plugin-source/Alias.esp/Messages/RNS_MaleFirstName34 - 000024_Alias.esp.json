@@ -1,0 +1,14 @@
+{
+  "FormKey": "000024:Alias.esp",
+  "VersionControl": 10408,
+  "EditorID": "RNS_MaleFirstName34",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Samuel"
+  },
+  "DisplayTime": 2
+}

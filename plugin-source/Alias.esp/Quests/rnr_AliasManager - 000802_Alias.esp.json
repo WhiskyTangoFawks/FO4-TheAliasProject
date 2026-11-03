@@ -1,0 +1,278 @@
+{
+  "FormKey": "000802:Alias.esp",
+  "VersionControl": 11651,
+  "EditorID": "rnr_AliasManager",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "GenerateNPCAlias",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectListProperty",
+            "Name": "aliasManagers",
+            "Objects": [
+              {
+                "Name": "",
+                "Object": "000802:Alias.esp",
+                "Alias": 0
+              },
+              {
+                "Name": "",
+                "Object": "000802:Alias.esp",
+                "Alias": 2
+              },
+              {
+                "Name": "",
+                "Object": "000802:Alias.esp",
+                "Alias": 6
+              },
+              {
+                "Name": "",
+                "Object": "000802:Alias.esp",
+                "Alias": 7
+              },
+              {
+                "Name": "",
+                "Object": "000802:Alias.esp",
+                "Alias": 8
+              }
+            ]
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "HasAlias",
+            "Object": "001950:Alias.esp"
+          }
+        ]
+      }
+    ],
+    "Versioning": [
+      "Break0"
+    ],
+    "Script": {
+      "Name": ""
+    }
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Alias Manager"
+  },
+  "Data": {
+    "Flags": [
+      "StartGameEnabled",
+      "AllowRepeatedStages",
+      "StartsEnabled",
+      "RunOnce"
+    ],
+    "Unused": 159
+  },
+  "UnusedConditions": [],
+  "Aliases": [
+    {
+      "MutagenObjectType": "QuestCollectionAlias",
+      "Collection": [
+        {
+          "MaxInitialFillCount": 1
+        }
+      ]
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "Name": "renameNPC_1x",
+      "Flags": [
+        "Optional",
+        "AllowReuseInQuest",
+        "AllowDead",
+        "AllowDisabled",
+        "StoresText",
+        "AllowDestroyed",
+        "MatchingRefClosest",
+        "UsesStoredText"
+      ],
+      "DisplayName": "000800:Alias.esp",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestCollectionAlias",
+      "Collection": [
+        {
+          "AliasID": 2,
+          "MaxInitialFillCount": 1
+        }
+      ]
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 2,
+      "Name": "renameNPC_2x",
+      "Flags": [
+        "Optional",
+        "AllowReuseInQuest",
+        "AllowDead",
+        "AllowDisabled",
+        "StoresText",
+        "AllowDestroyed",
+        "MatchingRefClosest",
+        "UsesStoredText"
+      ],
+      "DisplayName": "00080C:Alias.esp",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestCollectionAlias",
+      "Collection": [
+        {
+          "AliasID": 6,
+          "MaxInitialFillCount": 1
+        }
+      ]
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 6,
+      "Name": "renameNPC_3x",
+      "Flags": [
+        "Optional",
+        "AllowReuseInQuest",
+        "AllowDead",
+        "AllowDisabled",
+        "StoresText",
+        "AllowDestroyed",
+        "MatchingRefClosest",
+        "UsesStoredText"
+      ],
+      "DisplayName": "00080A:Alias.esp",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestCollectionAlias",
+      "Collection": [
+        {
+          "AliasID": 7,
+          "MaxInitialFillCount": 1
+        }
+      ]
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 7,
+      "Name": "renameNPC_4x",
+      "Flags": [
+        "Optional",
+        "AllowReuseInQuest",
+        "AllowDead",
+        "AllowDisabled",
+        "StoresText",
+        "AllowDestroyed",
+        "MatchingRefClosest",
+        "UsesStoredText"
+      ],
+      "DisplayName": "00080B:Alias.esp",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestCollectionAlias",
+      "Collection": [
+        {
+          "AliasID": 8,
+          "MaxInitialFillCount": 1
+        }
+      ]
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 8,
+      "Name": "renameNPC_5x",
+      "Flags": [
+        "Optional",
+        "AllowReuseInQuest",
+        "AllowDead",
+        "AllowDisabled",
+        "StoresText",
+        "AllowDestroyed",
+        "MatchingRefClosest",
+        "UsesStoredText"
+      ],
+      "DisplayName": "000937:Alias.esp",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestCollectionAlias",
+      "Collection": [
+        {
+          "AliasID": 9,
+          "MaxInitialFillCount": 1
+        }
+      ]
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 9,
+      "Name": "renameNPC_6x",
+      "Flags": [
+        "Optional",
+        "AllowReuseInQuest",
+        "AllowDead",
+        "AllowDisabled",
+        "StoresText",
+        "AllowDestroyed",
+        "MatchingRefClosest",
+        "UsesStoredText"
+      ],
+      "DisplayName": "002128:Alias.esp",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestCollectionAlias",
+      "Collection": [
+        {
+          "AliasID": 10,
+          "MaxInitialFillCount": 1
+        }
+      ]
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 10,
+      "Name": "renameNPC_7x",
+      "Flags": [
+        "Optional",
+        "AllowReuseInQuest",
+        "AllowDead",
+        "AllowDisabled",
+        "StoresText",
+        "AllowDestroyed",
+        "MatchingRefClosest",
+        "UsesStoredText"
+      ],
+      "DisplayName": "002129:Alias.esp",
+      "VoiceTypes": "Null"
+    },
+    {
+      "MutagenObjectType": "QuestCollectionAlias",
+      "Collection": [
+        {
+          "AliasID": 11,
+          "MaxInitialFillCount": 1
+        }
+      ]
+    },
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "ID": 11,
+      "Name": "renameNPC_8x",
+      "Flags": [
+        "Optional",
+        "AllowReuseInQuest",
+        "AllowDead",
+        "AllowDisabled",
+        "StoresText",
+        "AllowDestroyed",
+        "MatchingRefClosest",
+        "UsesStoredText"
+      ],
+      "DisplayName": "00212A:Alias.esp",
+      "VoiceTypes": "Null"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "FormKey": "000008:Alias - SuperMutants.esp",
+  "VersionControl": 11642,
+  "EditorID": "rnr_RenameSpell_MutantHound",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rename Mutant Hound"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "000007:Alias - SuperMutants.esp",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x000000",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "IsUnique"
+          }
+        }
+      ]
+    }
+  ]
+}

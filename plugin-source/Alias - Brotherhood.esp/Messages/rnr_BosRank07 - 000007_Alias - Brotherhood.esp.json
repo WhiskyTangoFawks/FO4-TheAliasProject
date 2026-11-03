@@ -1,0 +1,14 @@
+{
+  "FormKey": "000007:Alias - Brotherhood.esp",
+  "VersionControl": 11638,
+  "EditorID": "rnr_BosRank07",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Paladin-Commander"
+  },
+  "DisplayTime": 2
+}

@@ -1,0 +1,14 @@
+{
+  "FormKey": "000950:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericRobotSuffix08",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "wire"
+  },
+  "DisplayTime": 2
+}

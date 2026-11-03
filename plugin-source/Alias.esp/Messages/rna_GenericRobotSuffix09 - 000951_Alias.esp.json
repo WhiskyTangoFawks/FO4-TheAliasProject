@@ -1,0 +1,14 @@
+{
+  "FormKey": "000951:Alias.esp",
+  "VersionControl": 11642,
+  "EditorID": "rna_GenericRobotSuffix09",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "bolt"
+  },
+  "DisplayTime": 2
+}
